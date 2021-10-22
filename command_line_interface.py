@@ -1,3 +1,9 @@
+#Modified from
+#https://github.commart1nro/joycontrol and
+#https://github.com/Poohl/joycontrol
+#Uses evdev input to send key events instantly,
+#rather then through a cli
+
 import inspect
 import logging
 import shlex
